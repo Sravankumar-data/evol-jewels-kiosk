@@ -1,4 +1,4 @@
-# 💎 Evol Jewels AR Kiosk
+# 💎 Evol Jewels AR Kiosk - Challenge
 
 An interactive AR jewelry try-on kiosk experience built with React, optimized for 55-inch vertical touchscreens (1440x2560px).
 
